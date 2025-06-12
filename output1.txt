@@ -1,0 +1,11 @@
+Phuong phap lap don (Jacobi):
+X (Jacobi) (iteration 1): [-0.125, -3.2, -1.75]
+X (Jacobi) (iteration 2): [-0.74375, -3.575, -2.58125]
+X (Jacobi) (iteration 3): [-0.894531, -3.865, -2.82969]
+Sai so (Jacobi, max norm of residual): 0.538438
+
+Phuong phap lap Seidel (Gauss-Seidel):
+X (Seidel) (iteration 1): [-0.125, -3.225, -2.5875]
+X (Seidel) (iteration 2): [-0.851562, -3.88781, -2.93484]
+X (Seidel) (iteration 3): [-0.977832, -3.98254, -2.99009]
+Sai so (Seidel, max norm of residual): 0.149971
